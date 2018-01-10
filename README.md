@@ -7,7 +7,9 @@ Akhil Dalal
 Modifying Convolutional Neural Networks (CNN) for CIFAR-10 Dataset
 
 r = ReLU
+
 d = Dropout
+
 s = Softmax
 
 CNN-1: In -> Conv (r) -> Pool (d) -> Flatten -> FC (r) -> FC (r) -> Out (s)
